@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bio-data-form", "bio-data-form\bio-data-form.csproj", "{557B1E06-FF5B-45E9-AB48-5B83E95CC860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557B1E06-FF5B-45E9-AB48-5B83E95CC860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557B1E06-FF5B-45E9-AB48-5B83E95CC860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557B1E06-FF5B-45E9-AB48-5B83E95CC860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557B1E06-FF5B-45E9-AB48-5B83E95CC860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA98F7D6-FFED-4CF3-A641-844AF94CFAC0}
+	EndGlobalSection
+EndGlobal
